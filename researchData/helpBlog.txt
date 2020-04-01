@@ -1,0 +1,11 @@
+정적 블로그 생성기 만들기! :
+https://bohyeon-n.github.io/deploy/nodejs/blogindex.html
+
+홈페이지 함께 만들기(html, css, javascript, php, mysql, apache, 웹호스팅, 도메인, ssl인증 :
+https://m.blog.naver.com/aki_sue/221438585139
+
+홈페이지 만들기 기초 - HTML5 + CSS3 + 자바스크립트(JavaScript)
+https://m.blog.naver.com/hl1ixt/150136397003
+
+
+

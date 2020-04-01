@@ -1,0 +1,2 @@
+Git 뉴비를 위한 기초 사용법 :
+https://evan-moon.github.io/2019/07/25/git-tutorial/
