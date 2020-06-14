@@ -1,0 +1,11 @@
+{
+    "name": "dnmblog",
+    "version": "0.0.1",
+    "description": "blog maker",
+    "main": "app.js",
+    "scripts": {
+        "start": "nodemon app"
+    },
+    "author": "dongmin",
+    "license": "MIT"
+}
