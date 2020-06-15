@@ -3,8 +3,9 @@ const express = require('express');
 const router = express.Router();
 
 router.get('/', (req,res) => {
-    res.render('index', {
+    res.render('main', {
         title: "DNM-Blog",
+        user: null,
     });
 });
 
